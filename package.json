@@ -1,0 +1,37 @@
+{
+  "name": "is-office-hours",
+  "description": "Determine whether a given date is within office hours",
+  "version": "0.0.0",
+  "author": "Jamie Mason <jamie@foldleft.io> (https://github.com/JamieMason)",
+  "bugs": "https://github.com/JamieMason/is-office-hours/issues",
+  "contributors": [
+    "Jamie Mason (https://github.com/JamieMason)"
+  ],
+  "devDependencies": {
+    "@types/jest": "24.0.11",
+    "expect-more-jest": "2.4.1",
+    "jest": "24.3.1",
+    "prettier": "1.16.4",
+    "rimraf": "2.6.3",
+    "ts-jest": "24.0.0",
+    "tslint": "5.13.1",
+    "typescript": "3.3.3333"
+  },
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/JamieMason/is-office-hours#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "is-office-hours",
+  "repository": "JamieMason/is-office-hours",
+  "scripts": {
+    "build": "tsc --project .",
+    "format": "prettier --write '**/*.md' './src/**/*.ts'",
+    "lint": "tslint --fix --project ./tsconfig.json",
+    "prebuild": "rimraf dist",
+    "prelint": "npm run format",
+    "prepack": "npm run build",
+    "test": "jest"
+  }
+}
