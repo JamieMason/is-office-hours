@@ -1,7 +1,7 @@
 {
   "name": "is-office-hours",
   "description": "Determine whether a given date is within office hours",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Jamie Mason <jamie@foldleft.io> (https://github.com/JamieMason)",
   "bugs": "https://github.com/JamieMason/is-office-hours/issues",
   "contributors": [
