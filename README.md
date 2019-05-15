@@ -12,7 +12,7 @@
 [![Sponsors](https://opencollective.com/fold_left/sponsors/badge.svg)](https://opencollective.com/fold_left#sponsors)
 [![Analytics](https://ga-beacon.appspot.com/UA-45466560-5/is-office-hours?flat&useReferer)](https://github.com/igrigorik/ga-beacon)
 [![Follow JamieMason on GitHub](https://img.shields.io/github/followers/JamieMason.svg?style=social&label=Follow)](https://github.com/JamieMason)
-[![Follow fold_left on Twitter](https://img.shields.io/twitter/follow/fold_left.svg?style=social&label=Follow)](https://twitter.com/fold_left)
+[![Follow fold_left on Twitter](https://img.shields.io/twitter/follow/fold_left.svg?style=social&label=Follow)](https://twitter.com/fold_left) [![Join the chat at https://gitter.im/JamieMason/is-office-hours](https://badges.gitter.im/JamieMason/is-office-hours.svg)](https://gitter.im/JamieMason/is-office-hours?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## :cloud: Installation
 
