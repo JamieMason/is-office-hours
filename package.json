@@ -10,7 +10,7 @@
   "devDependencies": {
     "@types/jest": "24.0.11",
     "expect-more-jest": "2.4.1",
-    "jest": "24.3.1",
+    "jest": "24.8.0",
     "prettier": "1.16.4",
     "rimraf": "2.6.3",
     "ts-jest": "24.0.0",
